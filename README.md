@@ -4,6 +4,7 @@ Bayes
 Bayes
 
 1 How to use (this teach is under ubuntu os) .
+
 	a,install git:
 		sudo apt-get install git
 	b,add shh key to you github account.
@@ -18,18 +19,26 @@ Bayes
 	d,creat you code foder.
 	e,goto you codefoder and clone the lastest code:
 		git clone git@github:WHUT-Computer/Bayes.git
+		
 now you have the lastest code. enjoy it!
 
+
 2 How to add files.
+
 goto you code foder,do
+
 	git add "you add file"
 	git commit -m "you can say the reason why you do this at here"
 	git push
+	
 
 3 How to delet files
+
 goto you code foder,do
+
         git rm "you add file"
         git commit -m "you can say the reason why you do this at here"
         git push
+        
 
 4....
