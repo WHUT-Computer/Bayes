@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:autonavi="http://schemas.android.com/apk/res/com.amap"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+    <include
+        android:id="@+id/mainview_top_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        layout="@layout/top_menu" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/location"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/mainview_top_menu" >
+        
+        <com.amap.mapapi.map.MapView 
+	    	android:id="@+id/mapView"
+			android:layout_width="fill_parent" 
+			android:layout_height="fill_parent"
+			android:clickable="true"  />
+
+        <ImageButton
+            android:id="@+id/mainview_traffic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="10dip"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/v3_traffic_checked" />
+        
+        <TableLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true">
+            <TableRow >
+                <Button android:id="@+id/amplify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+"
+                android:textColor="#000"
+                android:textSize="6pt"
+                android:onClick="clickOnAmplify"
+                />
+            </TableRow>
+            <TableRow>
+                <Button android:id="@+id/shrink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:textColor="#000"
+                android:textSize="6pt"
+                android:onClick="clickOnShrink"
+                />
+            </TableRow>
+            
+        </TableLayout>
+        
+    </RelativeLayout>
+    
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="bottom"
+        android:background="#008297"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:singleLine="true"
+        android:text="所在位置"
+        android:textColor="#d0ffffff"
+        android:visibility="visible" />
+    
+</RelativeLayout>

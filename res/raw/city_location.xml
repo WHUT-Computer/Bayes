@@ -1,0 +1,2571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quanguo name="China">
+    <shengfen name="安徽省" >
+        <chengshi name="合肥" >
+            <lon>31.52</lon>
+            <lat>117.17</lat>
+        </chengshi>
+        <chengshi name="安庆" >
+             <lon>30.31</lon>
+             <lat>117.02</lat>
+        </chengshi>
+        <chengshi name="蚌埠" >
+             <lon>32.56</lon>
+             <lat>117.21</lat>
+        </chengshi>
+        <chengshi name="亳州" >
+             <lon>33.52</lon>
+             <lat>115.47</lat>
+        </chengshi>
+        <chengshi name="巢湖" >
+             <lon>31.36</lon>
+             <lat>117.52</lat>
+        </chengshi>
+        <chengshi name="滁州" >
+             <lon>32.18</lon>
+             <lat>118.18</lat>
+        </chengshi>
+        <chengshi name="阜阳" >
+             <lon>32.54</lon>
+             <lat>115.48</lat>
+        </chengshi>
+        <chengshi name="贵池" >
+             <lon>30.39</lon>
+             <lat>117.28</lat>
+        </chengshi>
+        <chengshi name="淮北" >
+             <lon>33.57</lon>
+             <lat>116.47</lat>
+        </chengshi>
+        <chengshi name="淮南" >
+             <lon>32.37</lon>
+             <lat>116.58</lat>
+        </chengshi>
+        <chengshi name="黄山" >
+             <lon>29.43</lon>
+             <lat>118.18</lat>
+        </chengshi>
+        <chengshi name="界首" >
+             <lon>33.15</lon>
+             <lat>115.21</lat>
+        </chengshi>
+        <chengshi name="六安" >
+             <lon>31.44</lon>
+             <lat>116.28</lat>
+        </chengshi>
+        <chengshi name="马鞍山" >
+             <lon>31.43</lon>
+             <lat>118.28</lat>
+        </chengshi>
+        <chengshi name="明光" >
+             <lon>32.47</lon>
+             <lat>117.58</lat>
+        </chengshi>
+        <chengshi name="宿州" >
+             <lon>33.38</lon>
+             <lat>116.58</lat>
+        </chengshi>
+        <chengshi name="天长" >
+             <lon>32.41</lon>
+             <lat>118.59</lat>
+        </chengshi>
+        <chengshi name="铜陵" >
+             <lon>30.56</lon>
+             <lat>117.48</lat>
+        </chengshi>
+        <chengshi name="芜湖" >
+             <lon>31.19</lon>
+             <lat>118.22</lat>
+        </chengshi>
+        <chengshi name="宣州" >
+             <lon>30.57</lon>
+             <lat>118.44</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="澳门" >
+        <chengshi name="澳门市" >
+             <lon>21.33</lon>
+             <lat>115.07</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="北京市" >
+        <chengshi name="北京市" >
+             <lon>39.55</lon>
+             <lat>116.24</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="福建省" >
+        <chengshi name="福州" >
+             <lon>26.05</lon>
+             <lat>119.18</lat>
+        </chengshi>
+        <chengshi name="长乐" >
+             <lon>25.58</lon>
+             <lat>119.31</lat>
+        </chengshi>
+        <chengshi name="福安" >
+             <lon>27.06</lon>
+             <lat>119.39</lat>
+        </chengshi>
+        <chengshi name="福清" >
+             <lon>25.42</lon>
+             <lat>119.23</lat>
+        </chengshi>
+        <chengshi name="建瓯" >
+             <lon>27.03</lon>
+             <lat>118.2</lat>
+        </chengshi>
+        <chengshi name="建阳" >
+             <lon>27.21</lon>
+             <lat>118.07</lat>
+        </chengshi>
+        <chengshi name="晋江" >
+             <lon>24.49</lon>
+             <lat>118.35</lat>
+        </chengshi>
+        <chengshi name="龙海" >
+             <lon>24.26</lon>
+             <lat>117.48</lat>
+        </chengshi>
+        <chengshi name="龙岩" >
+             <lon>25.06</lon>
+             <lat>117.01</lat>
+        </chengshi>
+        <chengshi name="南安" >
+             <lon>24.57</lon>
+             <lat>118.23</lat>
+        </chengshi>
+        <chengshi name="南平" >
+             <lon>26.38</lon>
+             <lat>118.1</lat>
+        </chengshi>
+        <chengshi name="宁德" >
+             <lon>26.39</lon>
+             <lat>119.31</lat>
+        </chengshi>
+        <chengshi name="莆田" >
+             <lon>24.26</lon>
+             <lat>119.01</lat>
+        </chengshi>
+        <chengshi name="泉州" >
+             <lon>24.56</lon>
+             <lat>118.36</lat>
+        </chengshi>
+        <chengshi name="三明" >
+             <lon>26.13</lon>
+             <lat>117.36</lat>
+        </chengshi>
+        <chengshi name="邵武" >
+             <lon>27.2</lon>
+             <lat>117.29</lat>
+        </chengshi>
+        <chengshi name="石狮" >
+             <lon>24.44</lon>
+             <lat>118.38</lat>
+        </chengshi>
+        <chengshi name="武夷山" >
+             <lon>27.46</lon>
+             <lat>118.02</lat>
+        </chengshi>
+        <chengshi name="厦门" >
+             <lon>24.27</lon>
+             <lat>118.06</lat>
+        </chengshi>
+        <chengshi name="永安" >
+             <lon>25.58</lon>
+             <lat>117.23</lat>
+        </chengshi>
+        <chengshi name="漳平" >
+             <lon>25.17</lon>
+             <lat>117.24</lat>
+        </chengshi>
+        <chengshi name="漳州" >
+             <lon>24.31</lon>
+             <lat>117.39</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="甘肃省" >
+        <chengshi name="兰州" >
+             <lon>36.04</lon>
+             <lat>103.51</lat>
+        </chengshi>
+        <chengshi name="白银" >
+             <lon>36.33</lon>
+             <lat>104.12</lat>
+        </chengshi>
+        <chengshi name="敦煌" >
+             <lon>40.08</lon>
+             <lat>94.41</lat>
+        </chengshi>
+        <chengshi name="嘉峪关" >
+             <lon>39.48</lon>
+             <lat>98.14</lat>
+        </chengshi>
+        <chengshi name="金昌" >
+             <lon>38.28</lon>
+             <lat>102.1</lat>
+        </chengshi>
+        <chengshi name="酒泉" >
+             <lon>39.44</lon>
+             <lat>98.31</lat>
+        </chengshi>
+        <chengshi name="临夏" >
+             <lon>35.37</lon>
+             <lat>103.12</lat>
+        </chengshi>
+        <chengshi name="平凉" >
+             <lon>35.32</lon>
+             <lat>106.4</lat>
+        </chengshi>
+        <chengshi name="天水" >
+             <lon>34.37</lon>
+             <lat>105.42</lat>
+        </chengshi>
+        <chengshi name="武威" >
+             <lon>37.56</lon>
+             <lat>102.39</lat>
+        </chengshi>
+        <chengshi name="西峰" >
+             <lon>35.45</lon>
+             <lat>107.4</lat>
+        </chengshi>
+        <chengshi name="玉门" >
+             <lon>39.49</lon>
+             <lat>97.35</lat>
+        </chengshi>
+        <chengshi name="张掖" >
+             <lon>38.56</lon>
+             <lat>100.26</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="广东省" >
+        <chengshi name="广州" >
+             <lon>23.08</lon>
+             <lat>113.14</lat>
+        </chengshi>
+        <chengshi name="潮阳" >
+             <lon>23.16</lon>
+             <lat>116.36</lat>
+        </chengshi>
+        <chengshi name="潮州" >
+             <lon>23.4</lon>
+             <lat>116.38</lat>
+        </chengshi>
+        <chengshi name="澄海" >
+             <lon>23.28</lon>
+             <lat>116.46</lat>
+        </chengshi>
+        <chengshi name="从化" >
+             <lon>23.33</lon>
+             <lat>113.33</lat>
+        </chengshi>
+        <chengshi name="东莞" >
+             <lon>23.02</lon>
+             <lat>113.45</lat>
+        </chengshi>
+        <chengshi name="恩平" >
+             <lon>22.12</lon>
+             <lat>112.19</lat>
+        </chengshi>
+        <chengshi name="佛山" >
+             <lon>23.02</lon>
+             <lat>113.06</lat>
+        </chengshi>
+        <chengshi name="高明" >
+             <lon>22.53</lon>
+             <lat>112.5</lat>
+        </chengshi>
+        <chengshi name="高要" >
+             <lon>23.02</lon>
+             <lat>112.26</lat>
+        </chengshi>
+        <chengshi name="高州" >
+             <lon>21.54</lon>
+             <lat>110.5</lat>
+        </chengshi>
+        <chengshi name="鹤山" >
+             <lon>22.46</lon>
+             <lat>112.57</lat>
+        </chengshi>
+        <chengshi name="河源" >
+             <lon>23.43</lon>
+             <lat>114.41</lat>
+        </chengshi>
+        <chengshi name="花都" >
+             <lon>23.23</lon>
+             <lat>113.12</lat>
+        </chengshi>
+        <chengshi name="化州" >
+             <lon>21.39</lon>
+             <lat>110.37</lat>
+        </chengshi>
+        <chengshi name="惠阳" >
+             <lon>22.48</lon>
+             <lat>114.28</lat>
+        </chengshi>
+        <chengshi name="惠州" >
+             <lon>23.05</lon>
+             <lat>114.22</lat>
+        </chengshi>
+        <chengshi name="江门" >
+             <lon>22.35</lon>
+             <lat>113.04</lat>
+        </chengshi>
+        <chengshi name="揭阳" >
+             <lon>22.32</lon>
+             <lat>116.21</lat>
+        </chengshi>
+        <chengshi name="开平" >
+             <lon>22.22</lon>
+             <lat>112.4</lat>
+        </chengshi>
+        <chengshi name="乐昌" >
+             <lon>25.09</lon>
+             <lat>113.21</lat>
+        </chengshi>
+        <chengshi name="雷州" >
+             <lon>20.54</lon>
+             <lat>110.04</lat>
+        </chengshi>
+        <chengshi name="廉江" >
+             <lon>21.37</lon>
+             <lat>110.17</lat>
+        </chengshi>
+        <chengshi name="连州" >
+             <lon>24.48</lon>
+             <lat>112.23</lat>
+        </chengshi>
+        <chengshi name="罗定" >
+             <lon>22.46</lon>
+             <lat>111.33</lat>
+        </chengshi>
+        <chengshi name="茂名" >
+             <lon>21.4</lon>
+             <lat>110.53</lat>
+        </chengshi>
+        <chengshi name="梅州" >
+             <lon>24.19</lon>
+             <lat>116.07</lat>
+        </chengshi>
+        <chengshi name="南海" >
+             <lon>23.01</lon>
+             <lat>113.09</lat>
+        </chengshi>
+        <chengshi name="番禺" >
+             <lon>22.57</lon>
+             <lat>113.22</lat>
+        </chengshi>
+        <chengshi name="普宁" >
+             <lon>23.18</lon>
+             <lat>116.1</lat>
+        </chengshi>
+        <chengshi name="清远" >
+             <lon>23.42</lon>
+             <lat>113.01</lat>
+        </chengshi>
+        <chengshi name="三水" >
+             <lon>23.1</lon>
+             <lat>112.52</lat>
+        </chengshi>
+        <chengshi name="汕头" >
+             <lon>23.22</lon>
+             <lat>116.41</lat>
+        </chengshi>
+        <chengshi name="汕尾" >
+             <lon>22.47</lon>
+             <lat>115.21</lat>
+        </chengshi>
+        <chengshi name="韶关" >
+             <lon>24.48</lon>
+             <lat>113.37</lat>
+        </chengshi>
+        <chengshi name="深圳" >
+             <lon>22.33</lon>
+             <lat>114.07</lat>
+        </chengshi>
+        <chengshi name="顺德" >
+             <lon>22.5</lon>
+             <lat>113.15</lat>
+        </chengshi>
+        <chengshi name="四会" >
+             <lon>23.21</lon>
+             <lat>112.41</lat>
+        </chengshi>
+        <chengshi name="台山" >
+             <lon>22.15</lon>
+             <lat>112.48</lat>
+        </chengshi>
+        <chengshi name="吴川" >
+             <lon>21.26</lon>
+             <lat>110.47</lat>
+        </chengshi>
+        <chengshi name="新会" >
+             <lon>22.32</lon>
+             <lat>113.01</lat>
+        </chengshi>
+        <chengshi name="兴宁" >
+             <lon>24.09</lon>
+             <lat>115.43</lat>
+        </chengshi>
+        <chengshi name="阳春" >
+             <lon>22.1</lon>
+             <lat>111.48</lat>
+        </chengshi>
+        <chengshi name="阳江" >
+             <lon>21.5</lon>
+             <lat>111.58</lat>
+        </chengshi>
+        <chengshi name="英德" >
+             <lon>24.1</lon>
+             <lat>113.22</lat>
+        </chengshi>
+        <chengshi name="云浮" >
+             <lon>22.57</lon>
+             <lat>112.02</lat>
+        </chengshi>
+        <chengshi name="增城" >
+             <lon>23.18</lon>
+             <lat>113.49</lat>
+        </chengshi>
+        <chengshi name="湛江" >
+             <lon>21.11</lon>
+             <lat>110.24</lat>
+        </chengshi>
+        <chengshi name="肇庆" >
+             <lon>23.03</lon>
+             <lat>112.27</lat>
+        </chengshi>
+        <chengshi name="中山" >
+             <lon>22.31</lon>
+             <lat>113.22</lat>
+        </chengshi>
+        <chengshi name="珠海" >
+             <lon>22.17</lon>
+             <lat>113.34</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="广西自治区" >
+        <chengshi name="南宁" >
+             <lon>22.48</lon>
+             <lat>108.19</lat>
+        </chengshi>
+        <chengshi name="北海" >
+             <lon>21.28</lon>
+             <lat>109.07</lat>
+        </chengshi>
+        <chengshi name="北流" >
+             <lon>22.42</lon>
+             <lat>110.21</lat>
+        </chengshi>
+        <chengshi name="百色" >
+             <lon>23.54</lon>
+             <lat>106.36</lat>
+        </chengshi>
+        <chengshi name="防城港" >
+             <lon>21.37</lon>
+             <lat>108.2</lat>
+        </chengshi>
+        <chengshi name="贵港" >
+             <lon>23.06</lon>
+             <lat>109.36</lat>
+        </chengshi>
+        <chengshi name="桂林" >
+             <lon>25.17</lon>
+             <lat>110.17</lat>
+        </chengshi>
+        <chengshi name="桂平" >
+             <lon>23.22</lon>
+             <lat>110.04</lat>
+        </chengshi>
+        <chengshi name="河池" >
+             <lon>24.42</lon>
+             <lat>108.03</lat>
+        </chengshi>
+        <chengshi name="合山" >
+             <lon>23.47</lon>
+             <lat>108.52</lat>
+        </chengshi>
+        <chengshi name="柳州" >
+             <lon>23.19</lon>
+             <lat>109.24</lat>
+        </chengshi>
+        <chengshi name="赁祥" >
+             <lon>22.07</lon>
+             <lat>106.44</lat>
+        </chengshi>
+        <chengshi name="钦州" >
+             <lon>21.57</lon>
+             <lat>108.37</lat>
+        </chengshi>
+        <chengshi name="梧州" >
+             <lon>23.29</lon>
+             <lat>111.2</lat>
+        </chengshi>
+        <chengshi name="玉林" >
+             <lon>22.38</lon>
+             <lat>110.09</lat>
+        </chengshi>
+        <chengshi name="宜州" >
+             <lon>24.28</lon>
+             <lat>108.4</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="贵州省" >
+        <chengshi name="贵阳" >
+             <lon>26.35</lon>
+             <lat>106.42</lat>
+        </chengshi>
+        <chengshi name="安顺" >
+             <lon>26.14</lon>
+             <lat>105.55</lat>
+        </chengshi>
+        <chengshi name="毕节" >
+             <lon>27.18</lon>
+             <lat>105.18</lat>
+        </chengshi>
+        <chengshi name="赤水" >
+             <lon>28.34</lon>
+             <lat>105.42</lat>
+        </chengshi>
+        <chengshi name="都匀" >
+             <lon>26.15</lon>
+             <lat>107.31</lat>
+        </chengshi>
+        <chengshi name="凯里" >
+             <lon>26.35</lon>
+             <lat>107.58</lat>
+        </chengshi>
+        <chengshi name="六盘水" >
+             <lon>26.35</lon>
+             <lat>104.5</lat>
+        </chengshi>
+        <chengshi name="清镇" >
+             <lon>26.33</lon>
+             <lat>106.27</lat>
+        </chengshi>
+        <chengshi name="铜仁" >
+             <lon>27.43</lon>
+             <lat>109.12</lat>
+        </chengshi>
+        <chengshi name="兴义" >
+             <lon>25.05</lon>
+             <lat>104.53</lat>
+        </chengshi>
+        <chengshi name="遵义" >
+             <lon>27.42</lon>
+             <lat>106.55</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="海南省" >
+        <chengshi name="海口" >
+             <lon>20.02</lon>
+             <lat>110.2</lat>
+        </chengshi>
+        <chengshi name="儋州" >
+             <lon>19.31</lon>
+             <lat>109.34</lat>
+        </chengshi>
+        <chengshi name="琼海" >
+             <lon>19.14</lon>
+             <lat>110.28</lat>
+        </chengshi>
+        <chengshi name="琼山" >
+             <lon>19.59</lon>
+             <lat>110.21</lat>
+        </chengshi>
+        <chengshi name="三亚" >
+             <lon>18.14</lon>
+             <lat>109.31</lat>
+        </chengshi>
+        <chengshi name="通什" >
+             <lon>18.46</lon>
+             <lat>109.31</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="河北省" >
+        <chengshi name="石家庄" >
+             <lon>38.02</lon>
+             <lat>114.3</lat>
+        </chengshi>
+        <chengshi name="安国" >
+             <lon>38.24</lon>
+             <lat>115.2</lat>
+        </chengshi>
+        <chengshi name="保定" >
+             <lon>38.51</lon>
+             <lat>115.3</lat>
+        </chengshi>
+        <chengshi name="霸州" >
+             <lon>39.06</lon>
+             <lat>116.24</lat>
+        </chengshi>
+        <chengshi name="泊头" >
+             <lon>38.04</lon>
+             <lat>116.34</lat>
+        </chengshi>
+        <chengshi name="沧州" >
+             <lon>38.18</lon>
+             <lat>116.52</lat>
+        </chengshi>
+        <chengshi name="承德" >
+             <lon>40.59</lon>
+             <lat>117.57</lat>
+        </chengshi>
+        <chengshi name="定州" >
+             <lon>38.3</lon>
+             <lat>115</lat>
+        </chengshi>
+        <chengshi name="丰南" >
+             <lon>39.34</lon>
+             <lat>118.06</lat>
+        </chengshi>
+        <chengshi name="高碑店" >
+             <lon>39.2</lon>
+             <lat>115.51</lat>
+        </chengshi>
+        <chengshi name="蒿城" >
+             <lon>38.02</lon>
+             <lat>114.5</lat>
+        </chengshi>
+        <chengshi name="邯郸" >
+             <lon>36.36</lon>
+             <lat>114.28</lat>
+        </chengshi>
+        <chengshi name="河间" >
+             <lon>38.26</lon>
+             <lat>116.05</lat>
+        </chengshi>
+        <chengshi name="衡水" >
+             <lon>37.44</lon>
+             <lat>115.42</lat>
+        </chengshi>
+        <chengshi name="黄骅" >
+             <lon>38.21</lon>
+             <lat>117.21</lat>
+        </chengshi>
+        <chengshi name="晋州" >
+             <lon>38.02</lon>
+             <lat>115.02</lat>
+        </chengshi>
+        <chengshi name="冀州" >
+             <lon>37.34</lon>
+             <lat>115.33</lat>
+        </chengshi>
+        <chengshi name="廓坊" >
+             <lon>39.31</lon>
+             <lat>116.42</lat>
+        </chengshi>
+        <chengshi name="鹿泉" >
+             <lon>38.04</lon>
+             <lat>114.19</lat>
+        </chengshi>
+        <chengshi name="南宫" >
+             <lon>37.22</lon>
+             <lat>115.23</lat>
+        </chengshi>
+        <chengshi name="秦皇岛" >
+             <lon>39.55</lon>
+             <lat>119.35</lat>
+        </chengshi>
+        <chengshi name="任丘" >
+             <lon>38.42</lon>
+             <lat>116.07</lat>
+        </chengshi>
+        <chengshi name="三河" >
+             <lon>39.58</lon>
+             <lat>117.04</lat>
+        </chengshi>
+        <chengshi name="沙河" >
+             <lon>36.51</lon>
+             <lat>114.3</lat>
+        </chengshi>
+        <chengshi name="深州" >
+             <lon>38.01</lon>
+             <lat>115.32</lat>
+        </chengshi>
+        <chengshi name="唐山" >
+             <lon>39.36</lon>
+             <lat>118.11</lat>
+        </chengshi>
+        <chengshi name="武安" >
+             <lon>36.42</lon>
+             <lat>114.11</lat>
+        </chengshi>
+        <chengshi name="邢台" >
+             <lon>37.04</lon>
+             <lat>114.3</lat>
+        </chengshi>
+        <chengshi name="辛集" >
+             <lon>37.54</lon>
+             <lat>115.12</lat>
+        </chengshi>
+        <chengshi name="新乐" >
+             <lon>38.2</lon>
+             <lat>114.41</lat>
+        </chengshi>
+        <chengshi name="张家口" >
+             <lon>40.48</lon>
+             <lat>114.53</lat>
+        </chengshi>
+        <chengshi name="涿州" >
+             <lon>39.29</lon>
+             <lat>115.59</lat>
+        </chengshi>
+        <chengshi name="遵化" >
+             <lon>40.11</lon>
+             <lat>117.58</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="河南省" >
+        <chengshi name="郑州" >
+             <lon>34.46</lon>
+             <lat>11340</lat>
+        </chengshi>
+        <chengshi name="安阳" >
+             <lon>36.06</lon>
+             <lat>114.21</lat>
+        </chengshi>
+        <chengshi name="长葛" >
+             <lon>34.12</lon>
+             <lat>113.47</lat>
+        </chengshi>
+        <chengshi name="登封" >
+             <lon>34.27</lon>
+             <lat>113.02</lat>
+        </chengshi>
+        <chengshi name="邓州" >
+             <lon>32.42</lon>
+             <lat>112.05</lat>
+        </chengshi>
+        <chengshi name="巩义" >
+             <lon>34.46</lon>
+             <lat>112.58</lat>
+        </chengshi>
+        <chengshi name="鹤壁" >
+             <lon>35.54</lon>
+             <lat>114.11</lat>
+        </chengshi>
+        <chengshi name="辉县" >
+             <lon>35.27</lon>
+             <lat>113.47</lat>
+        </chengshi>
+        <chengshi name="焦作" >
+             <lon>35.14</lon>
+             <lat>113.12</lat>
+        </chengshi>
+        <chengshi name="济源" >
+             <lon>35.04</lon>
+             <lat>112.35</lat>
+        </chengshi>
+        <chengshi name="开封" >
+             <lon>34.47</lon>
+             <lat>114.21</lat>
+        </chengshi>
+        <chengshi name="灵宝" >
+             <lon>34.31</lon>
+             <lat>110.52</lat>
+        </chengshi>
+        <chengshi name="林州" >
+             <lon>36.03</lon>
+             <lat>113.49</lat>
+        </chengshi>
+        <chengshi name="漯河" >
+             <lon>33.33</lon>
+             <lat>114.02</lat>
+        </chengshi>
+        <chengshi name="洛阳" >
+             <lon>34.41</lon>
+             <lat>112.27</lat>
+        </chengshi>
+        <chengshi name="南阳" >
+             <lon>33</lon>
+             <lat>112.32</lat>
+        </chengshi>
+        <chengshi name="平顶山" >
+             <lon>33.44</lon>
+             <lat>113.17</lat>
+        </chengshi>
+        <chengshi name="濮阳" >
+             <lon>35.44</lon>
+             <lat>115.01</lat>
+        </chengshi>
+        <chengshi name="沁阳" >
+             <lon>35.05</lon>
+             <lat>112.57</lat>
+        </chengshi>
+        <chengshi name="汝州" >
+             <lon>34.09</lon>
+             <lat>112.5</lat>
+        </chengshi>
+        <chengshi name="三门峡" >
+             <lon>34.47</lon>
+             <lat>111.12</lat>
+        </chengshi>
+        <chengshi name="商丘" >
+             <lon>34.26</lon>
+             <lat>115.38</lat>
+        </chengshi>
+        <chengshi name="卫辉" >
+             <lon>35.24</lon>
+             <lat>114.03</lat>
+        </chengshi>
+        <chengshi name="舞钢" >
+             <lon>33.17</lon>
+             <lat>113.3</lat>
+        </chengshi>
+        <chengshi name="项城" >
+             <lon>33.26</lon>
+             <lat>114.54</lat>
+        </chengshi>
+        <chengshi name="荥阳" >
+             <lon>34.46</lon>
+             <lat>113.21</lat>
+        </chengshi>
+        <chengshi name="新密" >
+             <lon>34.31</lon>
+             <lat>113.22</lat>
+        </chengshi>
+        <chengshi name="新乡" >
+             <lon>35.18</lon>
+             <lat>113.52</lat>
+        </chengshi>
+        <chengshi name="信阳" >
+             <lon>32.07</lon>
+             <lat>114.04</lat>
+        </chengshi>
+        <chengshi name="新郑" >
+             <lon>34.24</lon>
+             <lat>113.43</lat>
+        </chengshi>
+        <chengshi name="许昌" >
+             <lon>34.01</lon>
+             <lat>113.49</lat>
+        </chengshi>
+        <chengshi name="偃师" >
+             <lon>34.43</lon>
+             <lat>112.47</lat>
+        </chengshi>
+        <chengshi name="义马" >
+             <lon>34.43</lon>
+             <lat>111.55</lat>
+        </chengshi>
+        <chengshi name="禹州" >
+             <lon>34.09</lon>
+             <lat>113.28</lat>
+        </chengshi>
+        <chengshi name="周口" >
+             <lon>33.37</lon>
+             <lat>114.38</lat>
+        </chengshi>
+        <chengshi name="驻马店" >
+             <lon>32.58</lon>
+             <lat>114.01</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="黑龙江省" >
+        <chengshi name="哈尔滨" >
+             <lon>45.44</lon>
+             <lat>126.36</lat>
+        </chengshi>
+        <chengshi name="阿城" >
+             <lon>45.32</lon>
+             <lat>126.58</lat>
+        </chengshi>
+        <chengshi name="安达" >
+             <lon>46.24</lon>
+             <lat>125.18</lat>
+        </chengshi>
+        <chengshi name="北安" >
+             <lon>48.15</lon>
+             <lat>126.31</lat>
+        </chengshi>
+        <chengshi name="大庆" >
+             <lon>46.36</lon>
+             <lat>125.01</lat>
+        </chengshi>
+        <chengshi name="富锦" >
+             <lon>47.15</lon>
+             <lat>132.02</lat>
+        </chengshi>
+        <chengshi name="海林" >
+             <lon>44.35</lon>
+             <lat>129.21</lat>
+        </chengshi>
+        <chengshi name="海伦" >
+             <lon>47.28</lon>
+             <lat>126.57</lat>
+        </chengshi>
+        <chengshi name="鹤岗" >
+             <lon>47.2</lon>
+             <lat>130.16</lat>
+        </chengshi>
+        <chengshi name="黑河" >
+             <lon>50.14</lon>
+             <lat>127.29</lat>
+        </chengshi>
+        <chengshi name="佳木斯" >
+             <lon>46.47</lon>
+             <lat>130.22</lat>
+        </chengshi>
+        <chengshi name="鸡西" >
+             <lon>45.17</lon>
+             <lat>130.57</lat>
+        </chengshi>
+        <chengshi name="密山" >
+             <lon>45.32</lon>
+             <lat>131.5</lat>
+        </chengshi>
+        <chengshi name="牡丹江" >
+             <lon>44.35</lon>
+             <lat>129.36</lat>
+        </chengshi>
+        <chengshi name="讷河" >
+             <lon>48.29</lon>
+             <lat>124.51</lat>
+        </chengshi>
+        <chengshi name="宁安" >
+             <lon>44.21</lon>
+             <lat>129.28</lat>
+        </chengshi>
+        <chengshi name="齐齐哈尔" >
+             <lon>47.2</lon>
+             <lat>123.57</lat>
+        </chengshi>
+        <chengshi name="七台河" >
+             <lon>45.48</lon>
+             <lat>130.49</lat>
+        </chengshi>
+        <chengshi name="双城" >
+             <lon>45.22</lon>
+             <lat>126.15</lat>
+        </chengshi>
+        <chengshi name="尚志" >
+             <lon>45.14</lon>
+             <lat>127.55</lat>
+        </chengshi>
+        <chengshi name="双鸭山" >
+             <lon>46.38</lon>
+             <lat>131.11</lat>
+        </chengshi>
+        <chengshi name="绥芬河" >
+             <lon>44.25</lon>
+             <lat>131.11</lat>
+        </chengshi>
+        <chengshi name="绥化" >
+             <lon>46.38</lon>
+             <lat>126.59</lat>
+        </chengshi>
+        <chengshi name="铁力" >
+             <lon>46.59</lon>
+             <lat>128.01</lat>
+        </chengshi>
+        <chengshi name="同江" >
+             <lon>47.39</lon>
+             <lat>132.3</lat>
+        </chengshi>
+        <chengshi name="五常" >
+             <lon>44.55</lon>
+             <lat>127.11</lat>
+        </chengshi>
+        <chengshi name="五大连池" >
+             <lon>48.38</lon>
+             <lat>126.07</lat>
+        </chengshi>
+        <chengshi name="伊春" >
+             <lon>47.42</lon>
+             <lat>128.56</lat>
+        </chengshi>
+        <chengshi name="肇东" >
+             <lon>46.04</lon>
+             <lat>125.58</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="湖北省" >
+        <chengshi name="武汉" >
+             <lon>30.35</lon>
+             <lat>114.17</lat>
+        </chengshi>
+        <chengshi name="安陆" >
+             <lon>31.15</lon>
+             <lat>113.41</lat>
+        </chengshi>
+        <chengshi name="当阳" >
+             <lon>30.5</lon>
+             <lat>111.47</lat>
+        </chengshi>
+        <chengshi name="丹江口" >
+             <lon>32.33</lon>
+             <lat>108.3</lat>
+        </chengshi>
+        <chengshi name="大冶" >
+             <lon>30.06</lon>
+             <lat>114.58</lat>
+        </chengshi>
+        <chengshi name="恩施" >
+             <lon>30.16</lon>
+             <lat>109.29</lat>
+        </chengshi>
+        <chengshi name="鄂州" >
+             <lon>30.23</lon>
+             <lat>114.52</lat>
+        </chengshi>
+        <chengshi name="广水" >
+             <lon>31.37</lon>
+             <lat>113.48</lat>
+        </chengshi>
+        <chengshi name="洪湖" >
+             <lon>29.48</lon>
+             <lat>113.27</lat>
+        </chengshi>
+        <chengshi name="黄石" >
+             <lon>30.12</lon>
+             <lat>115.06</lat>
+        </chengshi>
+        <chengshi name="黄州" >
+             <lon>30.27</lon>
+             <lat>114.52</lat>
+        </chengshi>
+        <chengshi name="荆门" >
+             <lon>31.02</lon>
+             <lat>112.12</lat>
+        </chengshi>
+        <chengshi name="荆沙" >
+             <lon>30.18</lon>
+             <lat>112.16</lat>
+        </chengshi>
+        <chengshi name="老河口" >
+             <lon>32.23</lon>
+             <lat>111.4</lat>
+        </chengshi>
+        <chengshi name="利川" >
+             <lon>30.18</lon>
+             <lat>108.56</lat>
+        </chengshi>
+        <chengshi name="麻城" >
+             <lon>31.1</lon>
+             <lat>115.01</lat>
+        </chengshi>
+        <chengshi name="浦圻" >
+             <lon>29.42</lon>
+             <lat>113.51</lat>
+        </chengshi>
+        <chengshi name="潜江" >
+             <lon>30.26</lon>
+             <lat>112.53</lat>
+        </chengshi>
+        <chengshi name="石首" >
+             <lon>29.43</lon>
+             <lat>112.24</lat>
+        </chengshi>
+        <chengshi name="十堰" >
+             <lon>32.4</lon>
+             <lat>110.47</lat>
+        </chengshi>
+        <chengshi name="随州" >
+             <lon>31.42</lon>
+             <lat>113.22</lat>
+        </chengshi>
+        <chengshi name="天门" >
+             <lon>60.39</lon>
+             <lat>113.1</lat>
+        </chengshi>
+        <chengshi name="武穴" >
+             <lon>29.51</lon>
+             <lat>115.33</lat>
+        </chengshi>
+        <chengshi name="襄樊" >
+             <lon>32.02</lon>
+             <lat>112.08</lat>
+        </chengshi>
+        <chengshi name="咸宁" >
+             <lon>29.53</lon>
+             <lat>114.17</lat>
+        </chengshi>
+        <chengshi name="仙桃" >
+             <lon>30.22</lon>
+             <lat>113.27</lat>
+        </chengshi>
+        <chengshi name="孝感" >
+             <lon>30.56</lon>
+             <lat>113.54</lat>
+        </chengshi>
+        <chengshi name="宜昌" >
+             <lon>30.42</lon>
+             <lat>111.17</lat>
+        </chengshi>
+        <chengshi name="宜城" >
+             <lon>31.42</lon>
+             <lat>112.15</lat>
+        </chengshi>
+        <chengshi name="应城" >
+             <lon>30.57</lon>
+             <lat>113.33</lat>
+        </chengshi>
+        <chengshi name="枣阳" >
+             <lon>32.07</lon>
+             <lat>112.44</lat>
+        </chengshi>
+        <chengshi name="枝城" >
+             <lon>30.23</lon>
+             <lat>111.27</lat>
+        </chengshi>
+        <chengshi name="钟祥" >
+             <lon>31.1</lon>
+             <lat>112.34</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="湖南省" >
+        <chengshi name="长沙" >
+             <lon>28.12</lon>
+             <lat>112.59</lat>
+        </chengshi>
+        <chengshi name="常德" >
+             <lon>29.02</lon>
+             <lat>111.51</lat>
+        </chengshi>
+        <chengshi name="郴州" >
+             <lon>25.46</lon>
+             <lat>113.02</lat>
+        </chengshi>
+        <chengshi name="衡阳" >
+             <lon>26.53</lon>
+             <lat>112.37</lat>
+        </chengshi>
+        <chengshi name="洪江" >
+             <lon>27.07</lon>
+             <lat>109.59</lat>
+        </chengshi>
+        <chengshi name="怀化" >
+             <lon>27.33</lon>
+             <lat>109.58</lat>
+        </chengshi>
+        <chengshi name="津市" >
+             <lon>29.38</lon>
+             <lat>111.52</lat>
+        </chengshi>
+        <chengshi name="吉首" >
+             <lon>28.18</lon>
+             <lat>109.43</lat>
+        </chengshi>
+        <chengshi name="耒阳" >
+             <lon>26.24</lon>
+             <lat>112.51</lat>
+        </chengshi>
+        <chengshi name="冷水江" >
+             <lon>27.42</lon>
+             <lat>111.26</lat>
+        </chengshi>
+        <chengshi name="冷水滩" >
+             <lon>26.26</lon>
+             <lat>111.35</lat>
+        </chengshi>
+        <chengshi name="涟源" >
+             <lon>27.41</lon>
+             <lat>111.41</lat>
+        </chengshi>
+        <chengshi name="醴陵" >
+             <lon>27.4</lon>
+             <lat>113.3</lat>
+        </chengshi>
+        <chengshi name="临湘" >
+             <lon>29.29</lon>
+             <lat>113.27</lat>
+        </chengshi>
+        <chengshi name="浏阳" >
+             <lon>28.09</lon>
+             <lat>113.37</lat>
+        </chengshi>
+        <chengshi name="娄底" >
+             <lon>27.44</lon>
+             <lat>111.59</lat>
+        </chengshi>
+        <chengshi name="汨罗" >
+             <lon>28.49</lon>
+             <lat>113.03</lat>
+        </chengshi>
+        <chengshi name="韶山" >
+             <lon>27.54</lon>
+             <lat>112.29</lat>
+        </chengshi>
+        <chengshi name="邵阳" >
+             <lon>27.14</lon>
+             <lat>111.28</lat>
+        </chengshi>
+        <chengshi name="武冈" >
+             <lon>26.43</lon>
+             <lat>110.37</lat>
+        </chengshi>
+        <chengshi name="湘潭" >
+             <lon>27.52</lon>
+             <lat>112.53</lat>
+        </chengshi>
+        <chengshi name="湘乡" >
+             <lon>27.44</lon>
+             <lat>112.31</lat>
+        </chengshi>
+        <chengshi name="益阳" >
+             <lon>28.36</lon>
+             <lat>112.2</lat>
+        </chengshi>
+        <chengshi name="永州" >
+             <lon>26.13</lon>
+             <lat>111.37</lat>
+        </chengshi>
+        <chengshi name="沅江" >
+             <lon>28.5</lon>
+             <lat>112.22</lat>
+        </chengshi>
+        <chengshi name="岳阳" >
+             <lon>29.22</lon>
+             <lat>113.06</lat>
+        </chengshi>
+        <chengshi name="张家界" >
+             <lon>29.08</lon>
+             <lat>110.29</lat>
+        </chengshi>
+        <chengshi name="株洲" >
+             <lon>27.51</lon>
+             <lat>113.09</lat>
+        </chengshi>
+        <chengshi name="资兴" >
+             <lon>25.58</lon>
+             <lat>113.13</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="吉林省" >
+        <chengshi name="长春" >
+             <lon>43.54</lon>
+             <lat>125.19</lat>
+        </chengshi>
+        <chengshi name="白城" >
+             <lon>45.38</lon>
+             <lat>122.5</lat>
+        </chengshi>
+        <chengshi name="白山" >
+             <lon>41.56</lon>
+             <lat>126.26</lat>
+        </chengshi>
+        <chengshi name="大安" >
+             <lon>45.3</lon>
+             <lat>124.18</lat>
+        </chengshi>
+        <chengshi name="德惠" >
+             <lon>44.32</lon>
+             <lat>125.42</lat>
+        </chengshi>
+        <chengshi name="敦化" >
+             <lon>43.22</lon>
+             <lat>128.13</lat>
+        </chengshi>
+        <chengshi name="公主岭" >
+             <lon>43.31</lon>
+             <lat>124.49</lat>
+        </chengshi>
+        <chengshi name="和龙" >
+             <lon>42.32</lon>
+             <lat>129</lat>
+        </chengshi>
+        <chengshi name="桦甸" >
+             <lon>42.58</lon>
+             <lat>126.44</lat>
+        </chengshi>
+        <chengshi name="珲春" >
+             <lon>42.52</lon>
+             <lat>130.22</lat>
+        </chengshi>
+        <chengshi name="集安" >
+             <lon>41.08</lon>
+             <lat>126.11</lat>
+        </chengshi>
+        <chengshi name="蛟河" >
+             <lon>43.42</lon>
+             <lat>127.21</lat>
+        </chengshi>
+        <chengshi name="吉林" >
+             <lon>43.52</lon>
+             <lat>126.33</lat>
+        </chengshi>
+        <chengshi name="九台" >
+             <lon>44.09</lon>
+             <lat>125.51</lat>
+        </chengshi>
+        <chengshi name="辽源" >
+             <lon>42.54</lon>
+             <lat>125.09</lat>
+        </chengshi>
+        <chengshi name="临江" >
+             <lon>41.49</lon>
+             <lat>126.53</lat>
+        </chengshi>
+        <chengshi name="龙井" >
+             <lon>42.46</lon>
+             <lat>129.26</lat>
+        </chengshi>
+        <chengshi name="梅河口" >
+             <lon>42.32</lon>
+             <lat>125.4</lat>
+        </chengshi>
+        <chengshi name="舒兰" >
+             <lon>44.24</lon>
+             <lat>126.57</lat>
+        </chengshi>
+        <chengshi name="四平" >
+             <lon>43.1</lon>
+             <lat>124.22</lat>
+        </chengshi>
+        <chengshi name="松原" >
+             <lon>45.11</lon>
+             <lat>124.49</lat>
+        </chengshi>
+        <chengshi name="洮南" >
+             <lon>45.2</lon>
+             <lat>122.47</lat>
+        </chengshi>
+        <chengshi name="通化" >
+             <lon>41.43</lon>
+             <lat>125.56</lat>
+        </chengshi>
+        <chengshi name="图们" >
+             <lon>42.57</lon>
+             <lat>129.51</lat>
+        </chengshi>
+        <chengshi name="延吉" >
+             <lon>42.54</lon>
+             <lat>129.3</lat>
+        </chengshi>
+        <chengshi name="愉树" >
+             <lon>44.49</lon>
+             <lat>126.32</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="江苏省" >
+        <chengshi name="南京" >
+             <lon>32.03</lon>
+             <lat>118.46</lat>
+        </chengshi>
+        <chengshi name="常熟" >
+             <lon>31.39</lon>
+             <lat>120.43</lat>
+        </chengshi>
+        <chengshi name="常州" >
+             <lon>31.47</lon>
+             <lat>119.58</lat>
+        </chengshi>
+        <chengshi name="丹阳" >
+             <lon>32</lon>
+             <lat>119.32</lat>
+        </chengshi>
+        <chengshi name="东台" >
+             <lon>32.51</lon>
+             <lat>120.19</lat>
+        </chengshi>
+        <chengshi name="高邮" >
+             <lon>32.47</lon>
+             <lat>119.27</lat>
+        </chengshi>
+        <chengshi name="海门" >
+             <lon>31.53</lon>
+             <lat>121.09</lat>
+        </chengshi>
+        <chengshi name="淮安" >
+             <lon>33.3</lon>
+             <lat>119.09</lat>
+        </chengshi>
+        <chengshi name="淮阴" >
+             <lon>33.36</lon>
+             <lat>119.02</lat>
+        </chengshi>
+        <chengshi name="江都" >
+             <lon>32.26</lon>
+             <lat>119.32</lat>
+        </chengshi>
+        <chengshi name="姜堰" >
+             <lon>32.34</lon>
+             <lat>120.08</lat>
+        </chengshi>
+        <chengshi name="江阴" >
+             <lon>31.54</lon>
+             <lat>120.17</lat>
+        </chengshi>
+        <chengshi name="靖江" >
+             <lon>32.02</lon>
+             <lat>120.17</lat>
+        </chengshi>
+        <chengshi name="金坛" >
+             <lon>31.46</lon>
+             <lat>119.33</lat>
+        </chengshi>
+        <chengshi name="昆山" >
+             <lon>31.23</lon>
+             <lat>120.57</lat>
+        </chengshi>
+        <chengshi name="连去港" >
+             <lon>34.36</lon>
+             <lat>119.1</lat>
+        </chengshi>
+        <chengshi name="溧阳" >
+             <lon>31.26</lon>
+             <lat>119.29</lat>
+        </chengshi>
+        <chengshi name="南通" >
+             <lon>32.01</lon>
+             <lat>120.51</lat>
+        </chengshi>
+        <chengshi name="邳州" >
+             <lon>34.19</lon>
+             <lat>117.59</lat>
+        </chengshi>
+        <chengshi name="启乐" >
+             <lon>31.48</lon>
+             <lat>121.39</lat>
+        </chengshi>
+        <chengshi name="如皋" >
+             <lon>32.23</lon>
+             <lat>120.33</lat>
+        </chengshi>
+        <chengshi name="宿迁" >
+             <lon>33.58</lon>
+             <lat>118.18</lat>
+        </chengshi>
+        <chengshi name="苏州" >
+             <lon>31.19</lon>
+             <lat>120.37</lat>
+        </chengshi>
+        <chengshi name="太仓" >
+             <lon>31.27</lon>
+             <lat>121.06</lat>
+        </chengshi>
+        <chengshi name="泰兴" >
+             <lon>32.1</lon>
+             <lat>120.01</lat>
+        </chengshi>
+        <chengshi name="泰州" >
+             <lon>32.3</lon>
+             <lat>119.54</lat>
+        </chengshi>
+        <chengshi name="通州" >
+             <lon>32.05</lon>
+             <lat>121.03</lat>
+        </chengshi>
+        <chengshi name="吴江" >
+             <lon>31.1</lon>
+             <lat>120.39</lat>
+        </chengshi>
+        <chengshi name="无锡" >
+             <lon>31.34</lon>
+             <lat>120.18</lat>
+        </chengshi>
+        <chengshi name="兴化" >
+             <lon>32.56</lon>
+             <lat>119.5</lat>
+        </chengshi>
+        <chengshi name="新沂" >
+             <lon>34.22</lon>
+             <lat>118.2</lat>
+        </chengshi>
+        <chengshi name="徐州" >
+             <lon>34.15</lon>
+             <lat>117.11</lat>
+        </chengshi>
+        <chengshi name="盐在" >
+             <lon>33.22</lon>
+             <lat>120.08</lat>
+        </chengshi>
+        <chengshi name="扬中" >
+             <lon>32.14</lon>
+             <lat>119.49</lat>
+        </chengshi>
+        <chengshi name="扬州" >
+             <lon>32.23</lon>
+             <lat>119.26</lat>
+        </chengshi>
+        <chengshi name="宜兴" >
+             <lon>31.21</lon>
+             <lat>119.49</lat>
+        </chengshi>
+        <chengshi name="仪征" >
+             <lon>32.16</lon>
+             <lat>119.1</lat>
+        </chengshi>
+        <chengshi name="张家港" >
+             <lon>31.52</lon>
+             <lat>120.32</lat>
+        </chengshi>
+        <chengshi name="镇江" >
+             <lon>32.11</lon>
+             <lat>119.27</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="江西省" >
+        <chengshi name="南昌" >
+             <lon>28.4</lon>
+             <lat>115.55</lat>
+        </chengshi>
+        <chengshi name="德兴" >
+             <lon>28.57</lon>
+             <lat>117.35</lat>
+        </chengshi>
+        <chengshi name="丰城" >
+             <lon>28.12</lon>
+             <lat>115.48</lat>
+        </chengshi>
+        <chengshi name="赣州" >
+             <lon>28.52</lon>
+             <lat>114.56</lat>
+        </chengshi>
+        <chengshi name="高安" >
+             <lon>28.25</lon>
+             <lat>115.22</lat>
+        </chengshi>
+        <chengshi name="吉安" >
+             <lon>27.07</lon>
+             <lat>114.58</lat>
+        </chengshi>
+        <chengshi name="景德镇" >
+             <lon>29.17</lon>
+             <lat>117.13</lat>
+        </chengshi>
+        <chengshi name="井冈山" >
+             <lon>26.34</lon>
+             <lat>114.1</lat>
+        </chengshi>
+        <chengshi name="九江" >
+             <lon>29.43</lon>
+             <lat>115.58</lat>
+        </chengshi>
+        <chengshi name="乐平" >
+             <lon>28.58</lon>
+             <lat>117.08</lat>
+        </chengshi>
+        <chengshi name="临川" >
+             <lon>27.59</lon>
+             <lat>116.21</lat>
+        </chengshi>
+        <chengshi name="萍乡" >
+             <lon>27.37</lon>
+             <lat>113.5</lat>
+        </chengshi>
+        <chengshi name="瑞昌" >
+             <lon>29.4</lon>
+             <lat>115.38</lat>
+        </chengshi>
+        <chengshi name="瑞金" >
+             <lon>25.53</lon>
+             <lat>116.01</lat>
+        </chengshi>
+        <chengshi name="上饶" >
+             <lon>25.27</lon>
+             <lat>117.58</lat>
+        </chengshi>
+        <chengshi name="新余" >
+             <lon>27.48</lon>
+             <lat>114.56</lat>
+        </chengshi>
+        <chengshi name="宜春" >
+             <lon>27.47</lon>
+             <lat>114.23</lat>
+        </chengshi>
+        <chengshi name="鹰潭" >
+             <lon>28.14</lon>
+             <lat>117.03</lat>
+        </chengshi>
+        <chengshi name="樟树" >
+             <lon>28.03</lon>
+             <lat>115.32</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="辽宁省" >
+        <chengshi name="沈阳" >
+             <lon>41.48</lon>
+             <lat>123.25</lat>
+        </chengshi>
+        <chengshi name="鞍山" >
+             <lon>41.07</lon>
+             <lat>123</lat>
+        </chengshi>
+        <chengshi name="北票" >
+             <lon>41.48</lon>
+             <lat>120.47</lat>
+        </chengshi>
+        <chengshi name="本溪" >
+             <lon>41.18</lon>
+             <lat>123.46</lat>
+        </chengshi>
+        <chengshi name="朝阳" >
+             <lon>41.34</lon>
+             <lat>120.27</lat>
+        </chengshi>
+        <chengshi name="大连" >
+             <lon>38.55</lon>
+             <lat>121.36</lat>
+        </chengshi>
+        <chengshi name="丹东" >
+             <lon>40.08</lon>
+             <lat>124.22</lat>
+        </chengshi>
+        <chengshi name="大石桥" >
+             <lon>40.37</lon>
+             <lat>122.31</lat>
+        </chengshi>
+        <chengshi name="东港" >
+             <lon>39.53</lon>
+             <lat>124.08</lat>
+        </chengshi>
+        <chengshi name="凤城" >
+             <lon>40.28</lon>
+             <lat>124.02</lat>
+        </chengshi>
+        <chengshi name="抚顺" >
+             <lon>41.51</lon>
+             <lat>123.54</lat>
+        </chengshi>
+        <chengshi name="阜新" >
+             <lon>42.01</lon>
+             <lat>121.39</lat>
+        </chengshi>
+        <chengshi name="盖州" >
+             <lon>40.24</lon>
+             <lat>122.21</lat>
+        </chengshi>
+        <chengshi name="海城" >
+             <lon>40.51</lon>
+             <lat>122.43</lat>
+        </chengshi>
+        <chengshi name="葫芦岛" >
+             <lon>40.45</lon>
+             <lat>120.51</lat>
+        </chengshi>
+        <chengshi name="锦州" >
+             <lon>41.07</lon>
+             <lat>121.09</lat>
+        </chengshi>
+        <chengshi name="开原" >
+             <lon>42.32</lon>
+             <lat>124.02</lat>
+        </chengshi>
+        <chengshi name="辽阳" >
+             <lon>41.16</lon>
+             <lat>123.12</lat>
+        </chengshi>
+        <chengshi name="凌海" >
+             <lon>41.1</lon>
+             <lat>121.21</lat>
+        </chengshi>
+        <chengshi name="凌源" >
+             <lon>41.14</lon>
+             <lat>119.22</lat>
+        </chengshi>
+        <chengshi name="盘锦" >
+             <lon>41.07</lon>
+             <lat>122.03</lat>
+        </chengshi>
+        <chengshi name="普兰店" >
+             <lon>39.23</lon>
+             <lat>121.58</lat>
+        </chengshi>
+        <chengshi name="铁法" >
+             <lon>42.28</lon>
+             <lat>123.32</lat>
+        </chengshi>
+        <chengshi name="铁岭" >
+             <lon>42.18</lon>
+             <lat>123.51</lat>
+        </chengshi>
+        <chengshi name="瓦房店" >
+             <lon>39.37</lon>
+             <lat>122</lat>
+        </chengshi>
+        <chengshi name="兴城" >
+             <lon>40.37</lon>
+             <lat>120.41</lat>
+        </chengshi>
+        <chengshi name="新民" >
+             <lon>41.59</lon>
+             <lat>122.49</lat>
+        </chengshi>
+        <chengshi name="营口" >
+             <lon>40.39</lon>
+             <lat>122.13</lat>
+        </chengshi>
+        <chengshi name="庄河" >
+             <lon>39.41</lon>
+             <lat>122.58</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="内蒙古自治区" >
+        <chengshi name="呼和浩特" >
+             <lon>40.48</lon>
+             <lat>111.41</lat>
+        </chengshi>
+        <chengshi name="包头" >
+             <lon>40.39</lon>
+             <lat>109.49</lat>
+        </chengshi>
+        <chengshi name="赤峰" >
+             <lon>42.17</lon>
+             <lat>118.58</lat>
+        </chengshi>
+        <chengshi name="东胜" >
+             <lon>39.48</lon>
+             <lat>109.59</lat>
+        </chengshi>
+        <chengshi name="二连浩特" >
+             <lon>43.38</lon>
+             <lat>111.58</lat>
+        </chengshi>
+        <chengshi name="额尔古纳" >
+             <lon>50.13</lon>
+             <lat>120.11</lat>
+        </chengshi>
+        <chengshi name="丰镇" >
+             <lon>40.27</lon>
+             <lat>113.09</lat>
+        </chengshi>
+        <chengshi name="根河" >
+             <lon>50.48</lon>
+             <lat>121.29</lat>
+        </chengshi>
+        <chengshi name="海拉尔" >
+             <lon>49.12</lon>
+             <lat>119.39</lat>
+        </chengshi>
+        <chengshi name="霍林郭勒" >
+             <lon>45.32</lon>
+             <lat>119.38</lat>
+        </chengshi>
+        <chengshi name="集宁" >
+             <lon>41.02</lon>
+             <lat>113.06</lat>
+        </chengshi>
+        <chengshi name="临河" >
+             <lon>40.46</lon>
+             <lat>107.22</lat>
+        </chengshi>
+        <chengshi name="满洲里" >
+             <lon>49.35</lon>
+             <lat>117.23</lat>
+        </chengshi>
+        <chengshi name="通辽" >
+             <lon>43.37</lon>
+             <lat>122.16</lat>
+        </chengshi>
+        <chengshi name="乌兰浩特" >
+             <lon>46.03</lon>
+             <lat>122.03</lat>
+        </chengshi>
+        <chengshi name="乌海" >
+             <lon>39.4</lon>
+             <lat>106.48</lat>
+        </chengshi>
+        <chengshi name="锡林浩特" >
+             <lon>43.57</lon>
+             <lat>116.03</lat>
+        </chengshi>
+        <chengshi name="牙克石" >
+             <lon>49.17</lon>
+             <lat>120.4</lat>
+        </chengshi>
+        <chengshi name="扎兰屯" >
+             <lon>48</lon>
+             <lat>122.47</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="宁夏自治区" >
+        <chengshi name="银川" >
+             <lon>38.27</lon>
+             <lat>106.16</lat>
+        </chengshi>
+        <chengshi name="青铜峡" >
+             <lon>37.56</lon>
+             <lat>105.59</lat>
+        </chengshi>
+        <chengshi name="石嘴山" >
+             <lon>39.02</lon>
+             <lat>106.22</lat>
+        </chengshi>
+        <chengshi name="吴忠" >
+             <lon>37.59</lon>
+             <lat>106.11</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="青海省" >
+        <chengshi name="西宁" >
+             <lon>36.38</lon>
+             <lat>101.48</lat>
+        </chengshi>
+        <chengshi name="德令哈" >
+             <lon>37.22</lon>
+             <lat>97.23</lat>
+        </chengshi>
+        <chengshi name="格尔木" >
+             <lon>36.26</lon>
+             <lat>94.55</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="山东省" >
+        <chengshi name="济南" >
+             <lon>36.4</lon>
+             <lat>117</lat>
+        </chengshi>
+        <chengshi name="安丘" >
+             <lon>36.25</lon>
+             <lat>119.12</lat>
+        </chengshi>
+        <chengshi name="滨州" >
+             <lon>37.22</lon>
+             <lat>118.02</lat>
+        </chengshi>
+        <chengshi name="昌邑" >
+             <lon>39.52</lon>
+             <lat>119.24</lat>
+        </chengshi>
+        <chengshi name="德州" >
+             <lon>37.26</lon>
+             <lat>116.17</lat>
+        </chengshi>
+        <chengshi name="东营" >
+             <lon>37.27</lon>
+             <lat>118.3</lat>
+        </chengshi>
+        <chengshi name="肥城" >
+             <lon>36.14</lon>
+             <lat>116.46</lat>
+        </chengshi>
+        <chengshi name="高密" >
+             <lon>36.22</lon>
+             <lat>119.44</lat>
+        </chengshi>
+        <chengshi name="菏泽" >
+             <lon>35.14</lon>
+             <lat>115.26</lat>
+        </chengshi>
+        <chengshi name="胶南" >
+             <lon>35.53</lon>
+             <lat>119.58</lat>
+        </chengshi>
+        <chengshi name="胶州" >
+             <lon>36.17</lon>
+             <lat>120</lat>
+        </chengshi>
+        <chengshi name="即墨" >
+             <lon>36.22</lon>
+             <lat>120.28</lat>
+        </chengshi>
+        <chengshi name="济宁" >
+             <lon>35.23</lon>
+             <lat>116.33</lat>
+        </chengshi>
+        <chengshi name="莱芜" >
+             <lon>36.12</lon>
+             <lat>117.4</lat>
+        </chengshi>
+        <chengshi name="莱西" >
+             <lon>36.52</lon>
+             <lat>120.31</lat>
+        </chengshi>
+        <chengshi name="莱阳" >
+             <lon>36.58</lon>
+             <lat>120.42</lat>
+        </chengshi>
+        <chengshi name="莱州" >
+             <lon>37.1</lon>
+             <lat>119.57</lat>
+        </chengshi>
+        <chengshi name="乐陵" >
+             <lon>37.44</lon>
+             <lat>117.12</lat>
+        </chengshi>
+        <chengshi name="聊城" >
+             <lon>36.26</lon>
+             <lat>115.57</lat>
+        </chengshi>
+        <chengshi name="临清" >
+             <lon>36.51</lon>
+             <lat>115.42</lat>
+        </chengshi>
+        <chengshi name="临沂" >
+             <lon>35.03</lon>
+             <lat>118.2</lat>
+        </chengshi>
+        <chengshi name="龙口" >
+             <lon>37.39</lon>
+             <lat>120.21</lat>
+        </chengshi>
+        <chengshi name="蓬莱" >
+             <lon>37.48</lon>
+             <lat>120.45</lat>
+        </chengshi>
+        <chengshi name="平度" >
+             <lon>36.47</lon>
+             <lat>119.58</lat>
+        </chengshi>
+        <chengshi name="青岛" >
+             <lon>36.03</lon>
+             <lat>120.18</lat>
+        </chengshi>
+        <chengshi name="青州" >
+             <lon>36.42</lon>
+             <lat>118.28</lat>
+        </chengshi>
+        <chengshi name="曲阜" >
+             <lon>35.36</lon>
+             <lat>116.58</lat>
+        </chengshi>
+        <chengshi name="日照" >
+             <lon>35.23</lon>
+             <lat>119.32</lat>
+        </chengshi>
+        <chengshi name="荣成" >
+             <lon>37.1</lon>
+             <lat>122.25</lat>
+        </chengshi>
+        <chengshi name="乳山" >
+             <lon>36.54</lon>
+             <lat>121.31</lat>
+        </chengshi>
+        <chengshi name="寿光" >
+             <lon>36.53</lon>
+             <lat>118.44</lat>
+        </chengshi>
+        <chengshi name="泰安" >
+             <lon>36.11</lon>
+             <lat>117.08</lat>
+        </chengshi>
+        <chengshi name="滕州" >
+             <lon>35.06</lon>
+             <lat>117.09</lat>
+        </chengshi>
+        <chengshi name="潍坊" >
+             <lon>36.43</lon>
+             <lat>119.06</lat>
+        </chengshi>
+        <chengshi name="威海" >
+             <lon>37.31</lon>
+             <lat>122.07</lat>
+        </chengshi>
+        <chengshi name="文登" >
+             <lon>37.12</lon>
+             <lat>122.03</lat>
+        </chengshi>
+        <chengshi name="新泰" >
+             <lon>35.54</lon>
+             <lat>117.45</lat>
+        </chengshi>
+        <chengshi name="烟台" >
+             <lon>37.32</lon>
+             <lat>121.24</lat>
+        </chengshi>
+        <chengshi name="兖州" >
+             <lon>35.32</lon>
+             <lat>116.49</lat>
+        </chengshi>
+        <chengshi name="禹城" >
+             <lon>36.56</lon>
+             <lat>116.39</lat>
+        </chengshi>
+        <chengshi name="枣庄" >
+             <lon>34.52</lon>
+             <lat>117.33</lat>
+        </chengshi>
+        <chengshi name="章丘" >
+             <lon>36.43</lon>
+             <lat>117.32</lat>
+        </chengshi>
+        <chengshi name="招远" >
+             <lon>37.21</lon>
+             <lat>120.23</lat>
+        </chengshi>
+        <chengshi name="诸城" >
+             <lon>35.59</lon>
+             <lat>119.24</lat>
+        </chengshi>
+        <chengshi name="淄博" >
+             <lon>36.48</lon>
+             <lat>118.03</lat>
+        </chengshi>
+        <chengshi name="邹城" >
+             <lon>35.24</lon>
+             <lat>116.58</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="山西省" >
+        <chengshi name="太原" >
+             <lon>37.54</lon>
+             <lat>112.33</lat>
+        </chengshi>
+        <chengshi name="长治" >
+             <lon>36.11</lon>
+             <lat>113.06</lat>
+        </chengshi>
+        <chengshi name="大同" >
+             <lon>40.06</lon>
+             <lat>113.17</lat>
+        </chengshi>
+        <chengshi name="高平" >
+             <lon>35.48</lon>
+             <lat>112.55</lat>
+        </chengshi>
+        <chengshi name="古交" >
+             <lon>37.54</lon>
+             <lat>112.09</lat>
+        </chengshi>
+        <chengshi name="河津" >
+             <lon>35.35</lon>
+             <lat>110.41</lat>
+        </chengshi>
+        <chengshi name="侯马" >
+             <lon>35.37</lon>
+             <lat>111.21</lat>
+        </chengshi>
+        <chengshi name="霍州" >
+             <lon>36.34</lon>
+             <lat>111.42</lat>
+        </chengshi>
+        <chengshi name="介休" >
+             <lon>37.02</lon>
+             <lat>111.55</lat>
+        </chengshi>
+        <chengshi name="晋城" >
+             <lon>35.3</lon>
+             <lat>112.51</lat>
+        </chengshi>
+        <chengshi name="临汾" >
+             <lon>36.05</lon>
+             <lat>111.31</lat>
+        </chengshi>
+        <chengshi name="潞城" >
+             <lon>36.21</lon>
+             <lat>113.14</lat>
+        </chengshi>
+        <chengshi name="朔州" >
+             <lon>39.19</lon>
+             <lat>112.26</lat>
+        </chengshi>
+        <chengshi name="孝义" >
+             <lon>37.08</lon>
+             <lat>111.48</lat>
+        </chengshi>
+        <chengshi name="忻州" >
+             <lon>38.24</lon>
+             <lat>112.43</lat>
+        </chengshi>
+        <chengshi name="阳泉" >
+             <lon>37.51</lon>
+             <lat>113.34</lat>
+        </chengshi>
+        <chengshi name="永济" >
+             <lon>34.52</lon>
+             <lat>110.27</lat>
+        </chengshi>
+        <chengshi name="原平" >
+             <lon>38.43</lon>
+             <lat>112.42</lat>
+        </chengshi>
+        <chengshi name="榆次" >
+             <lon>37.41</lon>
+             <lat>112.43</lat>
+        </chengshi>
+        <chengshi name="运城" >
+             <lon>35.02</lon>
+             <lat>110.59</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="陕西省" >
+        <chengshi name="西安" >
+             <lon>34.17</lon>
+             <lat>108.57</lat>
+        </chengshi>
+        <chengshi name="安康" >
+             <lon>32.41</lon>
+             <lat>109.01</lat>
+        </chengshi>
+        <chengshi name="宝鸡" >
+             <lon>34.22</lon>
+             <lat>107.09</lat>
+        </chengshi>
+        <chengshi name="韩城" >
+             <lon>35.28</lon>
+             <lat>110.27</lat>
+        </chengshi>
+        <chengshi name="汉中" >
+             <lon>33.04</lon>
+             <lat>107.01</lat>
+        </chengshi>
+        <chengshi name="华阴" >
+             <lon>34.34</lon>
+             <lat>110.05</lat>
+        </chengshi>
+        <chengshi name="商州" >
+             <lon>33.52</lon>
+             <lat>109.57</lat>
+        </chengshi>
+        <chengshi name="铜川" >
+             <lon>35.06</lon>
+             <lat>109.07</lat>
+        </chengshi>
+        <chengshi name="渭南" >
+             <lon>34.3</lon>
+             <lat>109.3</lat>
+        </chengshi>
+        <chengshi name="咸阳" >
+             <lon>34.2</lon>
+             <lat>108.43</lat>
+        </chengshi>
+        <chengshi name="兴平" >
+             <lon>34.18</lon>
+             <lat>108.29</lat>
+        </chengshi>
+        <chengshi name="延安" >
+             <lon>36.35</lon>
+             <lat>109.28</lat>
+        </chengshi>
+        <chengshi name="榆林" >
+             <lon>38.18</lon>
+             <lat>109.47</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="上海市" >
+        <chengshi name="上海市" >
+             <lon>31.14</lon>
+             <lat>121.29</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="四川省" >
+        <chengshi name="成都" >
+             <lon>30.4</lon>
+             <lat>104.04</lat>
+        </chengshi>
+        <chengshi name="巴中" >
+             <lon>31.51</lon>
+             <lat>106.43</lat>
+        </chengshi>
+        <chengshi name="崇州" >
+             <lon>30.39</lon>
+             <lat>103.4</lat>
+        </chengshi>
+        <chengshi name="达川" >
+             <lon>31.14</lon>
+             <lat>107.29</lat>
+        </chengshi>
+        <chengshi name="德阳" >
+             <lon>31.09</lon>
+             <lat>104.22</lat>
+        </chengshi>
+        <chengshi name="都江堰" >
+             <lon>31.01</lon>
+             <lat>103.37</lat>
+        </chengshi>
+        <chengshi name="峨眉山" >
+             <lon>29.36</lon>
+             <lat>103.29</lat>
+        </chengshi>
+        <chengshi name="涪陵" >
+             <lon>29.42</lon>
+             <lat>107.22</lat>
+        </chengshi>
+        <chengshi name="广汉" >
+             <lon>30.58</lon>
+             <lat>104.15</lat>
+        </chengshi>
+        <chengshi name="广元" >
+             <lon>32.28</lon>
+             <lat>105.51</lat>
+        </chengshi>
+        <chengshi name="华蓥" >
+             <lon>30.26</lon>
+             <lat>106.44</lat>
+        </chengshi>
+        <chengshi name="简阳" >
+             <lon>30.24</lon>
+             <lat>104.32</lat>
+        </chengshi>
+        <chengshi name="江油" >
+             <lon>31.48</lon>
+             <lat>104.42</lat>
+        </chengshi>
+        <chengshi name="阆中" >
+             <lon>31.36</lon>
+             <lat>105.58</lat>
+        </chengshi>
+        <chengshi name="乐山" >
+             <lon>29.36</lon>
+             <lat>103.44</lat>
+        </chengshi>
+        <chengshi name="泸州" >
+             <lon>28.54</lon>
+             <lat>105.24</lat>
+        </chengshi>
+        <chengshi name="绵阳" >
+             <lon>31.3</lon>
+             <lat>104.42</lat>
+        </chengshi>
+        <chengshi name="南充" >
+             <lon>30.49</lon>
+             <lat>106.04</lat>
+        </chengshi>
+        <chengshi name="内江" >
+             <lon>29.36</lon>
+             <lat>105.02</lat>
+        </chengshi>
+        <chengshi name="攀枝花" >
+             <lon>26.34</lon>
+             <lat>101.43</lat>
+        </chengshi>
+        <chengshi name="彭州" >
+             <lon>30.59</lon>
+             <lat>103.57</lat>
+        </chengshi>
+        <chengshi name="邛崃" >
+             <lon>30.26</lon>
+             <lat>103.28</lat>
+        </chengshi>
+        <chengshi name="遂宁" >
+             <lon>30.31</lon>
+             <lat>105.33</lat>
+        </chengshi>
+        <chengshi name="万县" >
+             <lon>30.5</lon>
+             <lat>108.21</lat>
+        </chengshi>
+        <chengshi name="万源" >
+             <lon>32.03</lon>
+             <lat>108.03</lat>
+        </chengshi>
+        <chengshi name="西昌" >
+             <lon>27.54</lon>
+             <lat>102.16</lat>
+        </chengshi>
+        <chengshi name="雅安" >
+             <lon>29.59</lon>
+             <lat>102.59</lat>
+        </chengshi>
+        <chengshi name="宜宾" >
+             <lon>28.47</lon>
+             <lat>104.34</lat>
+        </chengshi>
+        <chengshi name="自贡" >
+             <lon>29.23</lon>
+             <lat>104.46</lat>
+        </chengshi>
+        <chengshi name="资阳" >
+             <lon>30.09</lon>
+             <lat>104.38</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="台湾省" >
+        <chengshi name="台北市" >
+             <lon>25.03</lon>
+             <lat>121.3</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="天津市" >
+        <chengshi name="天津市" >
+             <lon>39.02</lon>
+             <lat>117.12</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="西藏自治区" >
+        <chengshi name="拉萨" >
+             <lon>29.39</lon>
+             <lat>91.08</lat>
+        </chengshi>
+        <chengshi name="日喀则" >
+             <lon>29.16</lon>
+             <lat>88.51</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="香港" >
+        <chengshi name="香港市" >
+             <lon>21.23</lon>
+             <lat>115.12</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="新疆自治区" >
+        <chengshi name="乌鲁木齐" >
+             <lon>43.45</lon>
+             <lat>87.36</lat>
+        </chengshi>
+        <chengshi name="阿克苏" >
+             <lon>41.09</lon>
+             <lat>80.19</lat>
+        </chengshi>
+        <chengshi name="阿勒泰" >
+             <lon>47.5</lon>
+             <lat>88.12</lat>
+        </chengshi>
+        <chengshi name="阿图什" >
+             <lon>39.42</lon>
+             <lat>76.08</lat>
+        </chengshi>
+        <chengshi name="博乐" >
+             <lon>44.57</lon>
+             <lat>82.08</lat>
+        </chengshi>
+        <chengshi name="昌吉" >
+             <lon>44.02</lon>
+             <lat>87.18</lat>
+        </chengshi>
+        <chengshi name="阜康" >
+             <lon>44.09</lon>
+             <lat>87.58</lat>
+        </chengshi>
+        <chengshi name="哈密" >
+             <lon>42.5</lon>
+             <lat>93.28</lat>
+        </chengshi>
+        <chengshi name="和田" >
+             <lon>37.09</lon>
+             <lat>79.55</lat>
+        </chengshi>
+        <chengshi name="克拉玛依" >
+             <lon>45.36</lon>
+             <lat>84.51</lat>
+        </chengshi>
+        <chengshi name="喀什" >
+             <lon>39.3</lon>
+             <lat>75.59</lat>
+        </chengshi>
+        <chengshi name="库尔勒" >
+             <lon>41.46</lon>
+             <lat>86.07</lat>
+        </chengshi>
+        <chengshi name="奎屯" >
+             <lon>44.27</lon>
+             <lat>84.56</lat>
+        </chengshi>
+        <chengshi name="石河子" >
+             <lon>44.18</lon>
+             <lat>86</lat>
+        </chengshi>
+        <chengshi name="塔城" >
+             <lon>46.46</lon>
+             <lat>82.59</lat>
+        </chengshi>
+        <chengshi name="吐鲁番" >
+             <lon>42.54</lon>
+             <lat>89.11</lat>
+        </chengshi>
+        <chengshi name="伊宁" >
+             <lon>43.55</lon>
+             <lat>81.2</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="云南省" >
+        <chengshi name="昆明" >
+             <lon>25.04</lon>
+             <lat>102.42</lat>
+        </chengshi>
+        <chengshi name="保山" >
+             <lon>25.08</lon>
+             <lat>99.1</lat>
+        </chengshi>
+        <chengshi name="楚雄" >
+             <lon>25.01</lon>
+             <lat>101.32</lat>
+        </chengshi>
+        <chengshi name="大理" >
+             <lon>25.34</lon>
+             <lat>100.13</lat>
+        </chengshi>
+        <chengshi name="东川" >
+             <lon>26.06</lon>
+             <lat>103.12</lat>
+        </chengshi>
+        <chengshi name="个旧" >
+             <lon>23.21</lon>
+             <lat>103.09</lat>
+        </chengshi>
+        <chengshi name="景洪" >
+             <lon>22.01</lon>
+             <lat>100.48</lat>
+        </chengshi>
+        <chengshi name="开远" >
+             <lon>23.43</lon>
+             <lat>103.13</lat>
+        </chengshi>
+        <chengshi name="曲靖" >
+             <lon>25.3</lon>
+             <lat>103.48</lat>
+        </chengshi>
+        <chengshi name="瑞丽" >
+             <lon>24</lon>
+             <lat>97.5</lat>
+        </chengshi>
+        <chengshi name="思茅" >
+             <lon>22.48</lon>
+             <lat>100.58</lat>
+        </chengshi>
+        <chengshi name="畹町" >
+             <lon>24.06</lon>
+             <lat>98.04</lat>
+        </chengshi>
+        <chengshi name="宣威" >
+             <lon>26.13</lon>
+             <lat>104.06</lat>
+        </chengshi>
+        <chengshi name="玉溪" >
+             <lon>24.22</lon>
+             <lat>102.32</lat>
+        </chengshi>
+        <chengshi name="昭通" >
+             <lon>27.2</lon>
+             <lat>103.42</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="浙江省" >
+        <chengshi name="杭州" >
+             <lon>30.16</lon>
+             <lat>120.1</lat>
+        </chengshi>
+        <chengshi name="慈溪" >
+             <lon>30.11</lon>
+             <lat>121.15</lat>
+        </chengshi>
+        <chengshi name="东阳" >
+             <lon>29.16</lon>
+             <lat>120.14</lat>
+        </chengshi>
+        <chengshi name="奉化" >
+             <lon>29.39</lon>
+             <lat>121.24</lat>
+        </chengshi>
+        <chengshi name="富阳" >
+             <lon>30.03</lon>
+             <lat>119.57</lat>
+        </chengshi>
+        <chengshi name="海宁" >
+             <lon>30.32</lon>
+             <lat>120.42</lat>
+        </chengshi>
+        <chengshi name="湖州" >
+             <lon>30.52</lon>
+             <lat>120.06</lat>
+        </chengshi>
+        <chengshi name="建德" >
+             <lon>29.29</lon>
+             <lat>119.16</lat>
+        </chengshi>
+        <chengshi name="江山" >
+             <lon>28.45</lon>
+             <lat>118.37</lat>
+        </chengshi>
+        <chengshi name="嘉兴" >
+             <lon>30.46</lon>
+             <lat>120.45</lat>
+        </chengshi>
+        <chengshi name="金华" >
+             <lon>29.07</lon>
+             <lat>119.39</lat>
+        </chengshi>
+        <chengshi name="兰溪" >
+             <lon>29.12</lon>
+             <lat>119.28</lat>
+        </chengshi>
+        <chengshi name="临海" >
+             <lon>28.51</lon>
+             <lat>121.08</lat>
+        </chengshi>
+        <chengshi name="丽水" >
+             <lon>28.27</lon>
+             <lat>119.54</lat>
+        </chengshi>
+        <chengshi name="龙泉" >
+             <lon>28.04</lon>
+             <lat>119.08</lat>
+        </chengshi>
+        <chengshi name="宁波" >
+             <lon>29.52</lon>
+             <lat>121.33</lat>
+        </chengshi>
+        <chengshi name="平湖" >
+             <lon>30.42</lon>
+             <lat>121.01</lat>
+        </chengshi>
+        <chengshi name="衢州" >
+             <lon>28.58</lon>
+             <lat>118.52</lat>
+        </chengshi>
+        <chengshi name="瑞安" >
+             <lon>27.48</lon>
+             <lat>120.38</lat>
+        </chengshi>
+        <chengshi name="上虞" >
+             <lon>30.01</lon>
+             <lat>120.52</lat>
+        </chengshi>
+        <chengshi name="绍兴" >
+             <lon>30</lon>
+             <lat>120.34</lat>
+        </chengshi>
+        <chengshi name="台州" >
+             <lon>28.41</lon>
+             <lat>121.27</lat>
+        </chengshi>
+        <chengshi name="桐乡" >
+             <lon>30.38</lon>
+             <lat>120.32</lat>
+        </chengshi>
+        <chengshi name="温岭" >
+             <lon>28.22</lon>
+             <lat>121.21</lat>
+        </chengshi>
+        <chengshi name="温州" >
+             <lon>28.01</lon>
+             <lat>120.39</lat>
+        </chengshi>
+        <chengshi name="萧山" >
+             <lon>30.09</lon>
+             <lat>120.16</lat>
+        </chengshi>
+        <chengshi name="义乌" >
+             <lon>29.18</lon>
+             <lat>120.04</lat>
+        </chengshi>
+        <chengshi name="乐清" >
+             <lon>28.08</lon>
+             <lat>120.58</lat>
+        </chengshi>
+        <chengshi name="余杭" >
+             <lon>30.26</lon>
+             <lat>120.18</lat>
+        </chengshi>
+        <chengshi name="余姚" >
+             <lon>30.02</lon>
+             <lat>121.1</lat>
+        </chengshi>
+        <chengshi name="永康" >
+             <lon>29.54</lon>
+             <lat>120.01</lat>
+        </chengshi>
+        <chengshi name="舟山" >
+             <lon>30.01</lon>
+             <lat>122.06</lat>
+        </chengshi>
+        <chengshi name="诸暨" >
+             <lon>29.43</lon>
+             <lat>120.14</lat>
+        </chengshi>
+    </shengfen>
+    <shengfen name="重庆市" >
+        <chengshi name="重庆市" >
+             <lon>29.35</lon>
+             <lat>106.33</lat>
+        </chengshi>
+        <chengshi name="合川区" >
+             <lon>30.02</lon>
+             <lat>106.15</lat>
+        </chengshi>
+        <chengshi name="江津区" >
+             <lon>29.18</lon>
+             <lat>106.16</lat>
+        </chengshi>
+        <chengshi name="南川区" >
+             <lon>29.1</lon>
+             <lat>107.05</lat>
+        </chengshi>
+        <chengshi name="永川区" >
+             <lon>29.23</lon>
+             <lat>105.53</lat>
+        </chengshi>
+    </shengfen>
+</quanguo>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <drawable name="translucent_background">#e0000000</drawable>
+    
+    <color name="button_normal">#E6365689</color>
+    <color name="button_press">#16365689</color>
+    <color name="news_normal_bg">#E6365689</color>
+    <color name="news_press_bg">#f0ffff</color>
+    <color name="stroke">#ffff8080</color>
+    
+</resources>

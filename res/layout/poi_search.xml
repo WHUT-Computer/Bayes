@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".poisearch.MyPoiSearch" >
+
+    <RelativeLayout
+        android:id="@+id/search_edit_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/poi_search_top_shape"
+        android:gravity="center_vertical" >
+        
+        <EditText
+            android:id="@+id/TextViewSearch"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/poi_search_edit_shape"
+            android:hint="请输入感兴趣的地方"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColor="#ffffffff"
+            android:textColorHint="#000000"
+            android:textSize="16.0sp" />
+        
+        <Button
+            android:id="@+id/next"
+            android:layout_width="60dp"
+            android:layout_height="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/poi_search_button"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="搜索"
+            android:textColor="#ffffff" />
+
+    </RelativeLayout>
+
+    <com.amap.mapapi.map.MapView
+        android:id="@+id/poisearch_MapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/search_edit_frame"
+        android:background="@drawable/poi_search_top_shape"
+        android:clickable="true" />
+
+</RelativeLayout>
