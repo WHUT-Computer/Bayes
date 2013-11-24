@@ -23,7 +23,7 @@ public class Bayes3Load extends Activity {
 				}
 				Intent main = new Intent(Bayes3Load.this, MainView.class);
 				startActivity(main);
-				overridePendingTransition(R.anim.zoom_exit, R.anim.zoom_enter);
+				overridePendingTransition(R.anim.zoom_enter, R.anim.zoom_exit);
 				finish();
 			}
 		}).start();

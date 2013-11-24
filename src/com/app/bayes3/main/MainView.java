@@ -155,13 +155,13 @@ public class MainView extends MapActivity {
 			if( ((Button)v).equals( mPoiSerach ) ) {
 				next = new Intent(mContext, MyPoiSearch.class);
 				startActivity(next);
-				overridePendingTransition(R.anim.zoom_exit, R.anim.zoom_enter);
+				overridePendingTransition(R.anim.zoom_enter, R.anim.zoom_exit);
 			}
 			//µº∫Ω
 			else if( ((Button)v).equals( mRoute ) ) {
 				next = new Intent(mContext, RouteMap.class);
 				startActivity(next);
-				overridePendingTransition(R.anim.zoom_exit, R.anim.zoom_enter);
+				overridePendingTransition(R.anim.zoom_enter, R.anim.zoom_exit);
 			}
 			//Õº≤„—°‘Ò
 			else if( ((Button)v).equals( mMapLayer ) ) {
