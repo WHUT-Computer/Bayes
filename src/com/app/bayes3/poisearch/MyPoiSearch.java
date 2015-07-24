@@ -98,10 +98,10 @@ public class MyPoiSearch extends MapActivity{
 		
 	}
 	
-	private void doPOI_Search(String cityCode){
+	private void doPOI_Search(final String cityCode){
 //		searchText.isFocused();
 		//获得用户的输入
-		String user_search = searchText.getText().toString().trim();
+		final String user_search = searchText.getText().toString().trim();
 		progDialog.setMessage("正在搜索:\n" + user_search);
 		progDialog.show();
 		//修改按钮类型为 "下一页"
@@ -109,23 +109,30 @@ public class MyPoiSearch extends MapActivity{
 		search.setText("下一页");
 		curpage = 1;
 		cnt = 0;
-		try {
-			PoiSearch poiSearch = new PoiSearch(MyPoiSearch.this,
-					// 设置搜索字符串，027为城市区号（需要获取当前城市的区号可在程序载入时定位获取）
-					new PoiSearch.Query(user_search, PoiTypeDef.All, cityCode)); 
-			//在当前地图显示范围内查找
-			poiSearch.setBound(new SearchBound(mMapView));
-			//设置搜索每次最多返回结果数
-			poiSearch.setPageSize(10);
-			result = poiSearch.searchPOI();
-			if(result != null) {
-				cnt = result.getPageCount();
-			}
-			handler.sendMessage(Message.obtain(handler,Utils.POISEARCH));
-		} catch (AMapException e) {
-			handler.sendMessage(Message.obtain(handler,Utils.ERROR));
-			e.printStackTrace();
-		}
+		Thread n = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    PoiSearch poiSearch = new PoiSearch(MyPoiSearch.this,
+                            // 设置搜索字符串，027为城市区号（需要获取当前城市的区号可在程序载入时定位获取）
+                            new PoiSearch.Query(user_search, PoiTypeDef.All, cityCode)); 
+                    //在当前地图显示范围内查找
+                    poiSearch.setBound(new SearchBound(mMapView));
+                    //设置搜索每次最多返回结果数
+                    poiSearch.setPageSize(10);
+                    result = poiSearch.searchPOI();
+                    if(result != null) {
+                        cnt = result.getPageCount();
+                    }
+                    handler.sendMessage(Message.obtain(handler,Utils.POISEARCH));
+                } catch (AMapException e) {
+                    handler.sendMessage(Message.obtain(handler,Utils.ERROR));
+                    e.printStackTrace();
+                }
+                
+            }
+        });
+		n.start();
 	}
 	
 	
